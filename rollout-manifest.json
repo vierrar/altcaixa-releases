@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:28:19.913600+00:00",
+  "generatedAt": "2026-11-20T05:32:31.635738+00:00",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -47,9 +47,7 @@
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
-        "allowedStoreIds": [
-          "store_7e8ee810954865450025e06d"
-        ],
+        "allowedStoreIds": [],
         "blockedStoreIds": []
       },
       "artifacts": {
@@ -62,12 +60,14 @@
     {
       "version": "0.2.6",
       "publishedAt": "2026-11-20T05:28:19.895Z",
-      "status": "staged",
+      "status": "active",
       "notes": "AltCaixa v0.2.6: Fechamento automático do modal de atualização, logo transparente no header, correção da tabela de Notas Fiscais, detecção de update no login/inicialização, redesign enterprise de Login/Cadastro/Loading e identificação completa de Modo de Homologação Fiscal.",
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
-        "allowedStoreIds": [],
+        "allowedStoreIds": [
+          "store_7e8ee810954865450025e06d"
+        ],
         "blockedStoreIds": []
       },
       "artifacts": {

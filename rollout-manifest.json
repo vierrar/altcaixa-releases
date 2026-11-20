@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T04:17:46.654647+00:00",
+  "generatedAt": "2026-11-20T04:18:02.007160+00:00",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -38,6 +38,27 @@
         "windows-x86_64": {
           "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.4/latest-x64.json",
           "sha256": "bc8e28e102afa30ed0233ff5f222f081c447cdc80a168d56a08872051e158991"
+        }
+      }
+    },
+    {
+      "version": "0.2.5",
+      "publishedAt": "2026-11-20T04:18:01.991Z",
+      "status": "active",
+      "notes": "AltCaixa v0.2.5: Versão completa com as 10 melhorias + novas telas enterprise AltarisTech de login, cadastro, recuperação e inicialização.",
+      "minPrincipalVersion": "0.2.2",
+      "rollout": {
+        "mode": "pilot",
+        "allowedStoreIds": [
+          "store_d68597239dbbd0d9e8d0dc0d",
+          "store_492df85a9f267eafcc89898c"
+        ],
+        "blockedStoreIds": []
+      },
+      "artifacts": {
+        "windows-x86_64": {
+          "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.5/latest-x64.json",
+          "sha256": "6388d683e1f8240f6feb0baf474597a70b9d963a0524caea3854c1e78ef1c8a3"
         }
       }
     }

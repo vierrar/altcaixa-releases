@@ -1,0 +1,11 @@
+{
+  "version": "0.2.10",
+  "notes": "Melhorias visuais na tela de carregamento, Central de Ajuda, Perfil da loja, autenticação e correção do splash de atualização.",
+  "pub_date": "2026-11-20T18:25:34.904Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN3V6T2xQbUErVnFPbUE2cytwWlNab1M1YjVqeHF3a1hHQ00xOWJMNE41T09oTG5LL2tINW9BM0huMU9lSzVSUWtyYTRuVHhNVXJMdHdqQzhkbDZKUlVYWUh2bXRqbWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTk5MDYxCWZpbGU6QWx0Q2FpeGFfMC4yLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTAKbmNMcVFFaVNGU0hIbm5DR3ZQZEI3WEVZalRqQXRydHN4L0JXc2tLcHY0RmRQR1hnRVc1VlVpOUdtbFJRam81Y0tKOGhiL1p5b2dXNTNkNTkyaWpZQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.10/AltCaixa_0.2.10_x64-setup.exe"
+    }
+  }
+}

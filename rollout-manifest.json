@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T02:56:08.159Z",
+  "generatedAt": "2026-11-20T03:11:10.876Z",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
       "version": "0.2.3",
       "publishedAt": "2026-11-20T02:32:42.224Z",
       "status": "active",
-      "notes": "Atualização de teste 0.2.3",
+      "notes": "Atualização automática silenciosa 0.2.3",
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
@@ -19,7 +19,7 @@
       "artifacts": {
         "windows-x86_64": {
           "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.3/latest-x64.json",
-          "sha256": "d10b5556b5aa083f5a593cca3e5c64ffee5402efee493c55082989a6844b813b"
+          "sha256": "da44d71b0e10d7043de7823377d519c2ea7c2690a07bc5801b4a1727448dcadc"
         }
       }
     }

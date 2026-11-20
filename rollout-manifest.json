@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T17:19:36.321799+00:00",
+  "generatedAt": "2026-11-20T17:34:06.351Z",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -97,7 +97,7 @@
       "version": "0.2.8",
       "publishedAt": "2026-11-20T17:19:36.310Z",
       "status": "active",
-      "notes": "AltCaixa v0.2.7: Nova Central de Ajuda no header com envio automático de relatório técnico (logs dos últimos 7 dias + stack traces), além de todas as correções de atualização, tabela fiscal, telas enterprise e modo de homologação.",
+      "notes": "Melhorias visuais na tela de carregamento, Central de Ajuda, Perfil da loja, autenticação e correção do splash de atualização.",
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
@@ -109,7 +109,7 @@
       "artifacts": {
         "windows-x86_64": {
           "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.8/latest-x64.json",
-          "sha256": "09047fbab4d4933f8a9543ce8022520c7e0ffe6d397038c3c5890eefa97eaa84"
+          "sha256": "173e492836d5ae5f0964dcc6f0c174794e682d354f9e958ffca1e67f6ef60340"
         }
       }
     }

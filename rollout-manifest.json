@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T03:28:52.081Z",
+  "generatedAt": "2026-11-20T04:17:46.654647+00:00",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -20,6 +20,24 @@
         "windows-x86_64": {
           "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.3/latest-x64.json",
           "sha256": "4cff8c88567351a092b982ba72d789bcd95d239ccd03cc0fefeec2a657037fe7"
+        }
+      }
+    },
+    {
+      "version": "0.2.4",
+      "publishedAt": "2026-11-20T04:17:46.640Z",
+      "status": "staged",
+      "notes": "AltCaixa v0.2.4: 10 melhorias de interface, notas fiscais com coluna fixa, vendas, contas a receber e atualização silenciosa com splash.",
+      "minPrincipalVersion": "0.2.2",
+      "rollout": {
+        "mode": "pilot",
+        "allowedStoreIds": [],
+        "blockedStoreIds": []
+      },
+      "artifacts": {
+        "windows-x86_64": {
+          "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.4/latest-x64.json",
+          "sha256": "bc8e28e102afa30ed0233ff5f222f081c447cdc80a168d56a08872051e158991"
         }
       }
     }

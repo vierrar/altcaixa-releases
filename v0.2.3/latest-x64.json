@@ -1,0 +1,11 @@
+{
+  "version": "0.2.3",
+  "notes": "Atualização de teste 0.2.3",
+  "pub_date": "2026-11-20T02:32:39.448Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeVJ6SGIydmo1N3FXTDhlTU1hRDhYVGFBZkswRFk1dE00S1FFazF6V0pYc3NKZWRJSFNEaHgwaHFjQVRVVlVxWEVJUk02M25Pa21VeW8vWVJCS2ttSy92VGxiYlpwMGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQxOTM4CWZpbGU6QWx0Q2FpeGFfMC4yLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4zCmVlSjhkblcyMU80RlBXVVl3UEVpNUtxL2xiQmJZN2tWTjZwSm0xNjhRbkdLaFJDRGJvdVJwUWcrMFFaL3VRcW9yYmlPdGxSTWorMG1ZbVJ0eU4rNUF3PT0K",
+      "url": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.3/AltCaixa_0.2.3_x64-setup.exe"
+    }
+  }
+}

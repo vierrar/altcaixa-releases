@@ -1,0 +1,11 @@
+{
+  "version": "0.2.6",
+  "notes": "AltCaixa v0.2.6: Fechamento automático do modal de atualização, logo transparente no header, correção da tabela de Notas Fiscais, detecção de update no login/inicialização, redesign enterprise de Login/Cadastro/Loading e identificação completa de Modo de Homologação Fiscal.",
+  "pub_date": "2026-11-20T05:28:17.792Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeVJ6SGIydmo1N3JjTnhqWkJQMTdjNkxOeXlxYnJyQWZHcWFjcU9hQm1wa1lEWUhrZWJjZGlYY2xtNmlVMEhxa1FockozZ3lDWElLK1RlNFpRc0g1cStJVFVLZXJJVkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTUyNDY2CWZpbGU6QWx0Q2FpeGFfMC4yLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi42ClFab3ZFZEQ3cjZ2bGhWY1VEcHdHcTJ1MURja2dmSkVVOUM0Wno3VFJxY2wxbTEzemZVa0pZTWZsVWFpY0tzczEwbDYraFYwOUhLcFlCaEtmejFEbUR3PT0K",
+      "url": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.6/AltCaixa_0.2.6_x64-setup.exe"
+    }
+  }
+}

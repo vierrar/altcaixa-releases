@@ -1,0 +1,11 @@
+{
+  "version": "0.2.7",
+  "notes": "AltCaixa v0.2.7: Nova Central de Ajuda no header com envio automático de relatório técnico (logs dos últimos 7 dias + stack traces), além de todas as correções de atualização, tabela fiscal, telas enterprise e modo de homologação.",
+  "pub_date": "2026-11-20T05:40:39.383Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeVJ6SGIydmo1N2hzaFlnaEJ4bFNFTGdmazJieWRQL211NzlUVFZjT0NJb0R2dEQ3WFovT1Q2T3VmeHVYcTlNZjZWQnVaOTRBek9BY3RBY00veTd5OUdCMkNkSDJ0RHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTUzMjAyCWZpbGU6QWx0Q2FpeGFfMC4yLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi43Cjg4RW9qOXdQcEpkN3lCNmgwTm9iTW5YRWdXYzVzNDBaSGRETHgwa1FBb1BldGtubUtreHdubHNNNDVrYjk4MDBzWC93WDFrNE04dG1FVlpxelJmVUJnPT0K",
+      "url": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.7/AltCaixa_0.2.7_x64-setup.exe"
+    }
+  }
+}

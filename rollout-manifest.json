@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T05:47:08.309934+00:00",
+  "generatedAt": "2026-11-21T05:48:38.493278+00:00",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -281,6 +281,24 @@
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
+        "allowedStoreIds": [],
+        "blockedStoreIds": []
+      },
+      "artifacts": {
+        "windows-x86_64": {
+          "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.18/latest-x64.json",
+          "sha256": "80ea0a310878c7d5fdb1c41ef3a9209e417277264f858158f65b4d32e63b1241"
+        }
+      }
+    },
+    {
+      "version": "0.2.19",
+      "publishedAt": "2026-11-21T05:48:38.445Z",
+      "status": "active",
+      "notes": "Melhorias visuais na tela de carregamento, Central de Ajuda, Perfil da loja, autenticação e correção do splash de atualização.",
+      "minPrincipalVersion": "0.2.2",
+      "rollout": {
+        "mode": "pilot",
         "allowedStoreIds": [
           "store_b83d03bb9b679ac6f1757113"
         ],
@@ -288,8 +306,8 @@
       },
       "artifacts": {
         "windows-x86_64": {
-          "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.18/latest-x64.json",
-          "sha256": "80ea0a310878c7d5fdb1c41ef3a9209e417277264f858158f65b4d32e63b1241"
+          "updaterJsonUrl": "https://raw.githubusercontent.com/vierrar/altcaixa-releases/main/v0.2.19/latest-x64.json",
+          "sha256": "08035a19799897f327e9eedfc40e3cb3b4edc23ad493c5aa2bd6e6b3e35990d5"
         }
       }
     }

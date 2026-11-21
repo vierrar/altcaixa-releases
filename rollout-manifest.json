@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T05:52:07.356014+00:00",
+  "generatedAt": "2026-11-21T05:54:09.582146+00:00",
   "repository": "vierrar/altcaixa-releases",
   "releases": [
     {
@@ -299,7 +299,9 @@
       "minPrincipalVersion": "0.2.2",
       "rollout": {
         "mode": "pilot",
-        "allowedStoreIds": [],
+        "allowedStoreIds": [
+          "00eefc36-af77-4b48-be19-9347c42b1d74"
+        ],
         "blockedStoreIds": []
       },
       "artifacts": {
